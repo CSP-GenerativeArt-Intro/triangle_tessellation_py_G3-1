@@ -42,7 +42,7 @@ def draw_picture(width, height):
         sg.fill_triangle(
             TRIANGLE_WIDTH, i * TRIANGLE_HEIGHT,
             TRIANGLE_WIDTH, (i + 1) * TRIANGLE_HEIGHT,
-            2 * TRIANGLE_WIDTH, (i + 1) * TRIANGLE_HEIGHT
+            2 * TRIANGLE_WIDTH, (i + 1) * TRIANGLE_HEIGHT)
  
     # code for MAGENTA triangles
     
